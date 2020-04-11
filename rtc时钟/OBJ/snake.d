@@ -1,0 +1,39 @@
+..\obj\snake.o: ..\HARDWARE\SNAKE\snake.c
+..\obj\snake.o: ..\HARDWARE\SNAKE\snake.h
+..\obj\snake.o: ..\SYSTEM\sys\sys.h
+..\obj\snake.o: ..\USER\stm32f10x.h
+..\obj\snake.o: ..\CORE\core_cm3.h
+..\obj\snake.o: D:\Program Files\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\snake.o: ..\USER\system_stm32f10x.h
+..\obj\snake.o: ..\USER\stm32f10x_conf.h
+..\obj\snake.o: ..\STM32F10x_FWLib\inc\stm32f10x_adc.h
+..\obj\snake.o: ..\USER\stm32f10x.h
+..\obj\snake.o: ..\STM32F10x_FWLib\inc\stm32f10x_bkp.h
+..\obj\snake.o: ..\STM32F10x_FWLib\inc\stm32f10x_can.h
+..\obj\snake.o: ..\STM32F10x_FWLib\inc\stm32f10x_cec.h
+..\obj\snake.o: ..\STM32F10x_FWLib\inc\stm32f10x_crc.h
+..\obj\snake.o: ..\STM32F10x_FWLib\inc\stm32f10x_dac.h
+..\obj\snake.o: ..\STM32F10x_FWLib\inc\stm32f10x_dbgmcu.h
+..\obj\snake.o: ..\STM32F10x_FWLib\inc\stm32f10x_dma.h
+..\obj\snake.o: ..\STM32F10x_FWLib\inc\stm32f10x_exti.h
+..\obj\snake.o: ..\STM32F10x_FWLib\inc\stm32f10x_flash.h
+..\obj\snake.o: ..\STM32F10x_FWLib\inc\stm32f10x_fsmc.h
+..\obj\snake.o: ..\STM32F10x_FWLib\inc\stm32f10x_gpio.h
+..\obj\snake.o: ..\STM32F10x_FWLib\inc\stm32f10x_i2c.h
+..\obj\snake.o: ..\STM32F10x_FWLib\inc\stm32f10x_iwdg.h
+..\obj\snake.o: ..\STM32F10x_FWLib\inc\stm32f10x_pwr.h
+..\obj\snake.o: ..\STM32F10x_FWLib\inc\stm32f10x_rcc.h
+..\obj\snake.o: ..\STM32F10x_FWLib\inc\stm32f10x_rtc.h
+..\obj\snake.o: ..\STM32F10x_FWLib\inc\stm32f10x_sdio.h
+..\obj\snake.o: ..\STM32F10x_FWLib\inc\stm32f10x_spi.h
+..\obj\snake.o: ..\STM32F10x_FWLib\inc\stm32f10x_tim.h
+..\obj\snake.o: ..\STM32F10x_FWLib\inc\stm32f10x_usart.h
+..\obj\snake.o: ..\STM32F10x_FWLib\inc\stm32f10x_wwdg.h
+..\obj\snake.o: ..\STM32F10x_FWLib\inc\misc.h
+..\obj\snake.o: ..\HARDWARE\TIMER\timer.h
+..\obj\snake.o: ..\SYSTEM\delay\delay.h
+..\obj\snake.o: ..\HARDWARE\LED\led.h
+..\obj\snake.o: ..\HARDWARE\KEY\key.h
+..\obj\snake.o: ..\HARDWARE\OLED\oled.h
+..\obj\snake.o: D:\Program Files\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\snake.o: D:\Program Files\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h

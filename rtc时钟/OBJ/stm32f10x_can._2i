@@ -1,0 +1,6 @@
+-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ..\USER -I ..\CORE -I ..\STM32F10x_FWLib\inc -I ..\SYSTEM\delay -I ..\SYSTEM\sys -I ..\SYSTEM\usart -I ..\HARDWARE\LED -I ..\HARDWARE\KEY -I ..\HARDWARE\UART -I ..\HARDWARE\ATK-S1216 -I ..\HARDWARE\USART3 -I ..\HARDWARE\TIMER -I ..\UCOSII\CORE -I ..\UCOSII\CONFIG -I ..\UCOSII\PORT -I ..\MALLOC -I ..\HARDWARE\OLED -I ..\HARDWARE\SNAKE
+-I.\RTE\_Template
+-I"D:\Program Files\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include"
+-I"D:\Program Files\Keil_v5\ARM\CMSIS\Include"
+-D__UVISION_VERSION="529" -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER
+-o ..\obj\stm32f10x_can.o --omf_browse ..\obj\stm32f10x_can.crf --depend ..\obj\stm32f10x_can.d --feedback "..\OBJ\Template.fed" "..\STM32F10x_FWLib\src\stm32f10x_can.c"
